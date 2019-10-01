@@ -1,0 +1,13 @@
+{
+  "name": "Fetch with React, React Router",
+  "version": "1.0.0",
+  "description": "Solution to a question on SO.",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/1ojz20750j",
+  "main": "index.js",
+  "dependencies": {
+    "react-router-dom": "4.2.2",
+    "react-dom": "16.0.0",
+    "react": "16.0.0"
+  }
+}

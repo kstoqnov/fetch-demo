@@ -1,0 +1,22 @@
+{
+  "name": "fetch-with-react-react-router",
+  "version": "0.0.0",
+  "description": "Solution to a question on SO.",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/1ojz20750j",
+  "main": "index.js",
+  "dependencies": {
+    "react-router-dom": "4.2.2",
+    "react-dom": "16.0.0",
+    "react": "16.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
